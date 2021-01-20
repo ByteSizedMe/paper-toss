@@ -1,1 +1,1 @@
-# paper-toss
+# CP-2
